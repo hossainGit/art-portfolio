@@ -1,0 +1,13 @@
+# Only the website ships. The original photos, design notes and tool folders stay local.
+/*
+!/index.html
+!/assets/
+!/README.md
+!/.gitignore
+
+# Images no longer used on the site
+assets/img/me/speech.webp*
+assets/img/me/sunset-wide.webp*
+assets/img/work/ps5-*
+assets/img/work/ps8-*
+assets/img/work/waltz-jacket-*
